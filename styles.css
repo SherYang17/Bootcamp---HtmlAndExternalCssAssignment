@@ -36,7 +36,6 @@ nav {
     margin-right:50px;
 }
 
-
 .items:hover {
     background-color: grey;
 }
@@ -67,8 +66,7 @@ input[type=text]:active {
     }
   }
 
-
-  @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .topnav a, .topnav input[type=text] {
       float: none;
       display: block;
@@ -76,4 +74,4 @@ input[type=text]:active {
       width: 100%;
       margin: 0;
       padding: 14px;
-    }
+}
