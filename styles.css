@@ -57,7 +57,7 @@ input[type=text]:active {
     background-color: #3e8e41;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
-
+}
 
 /* Styles for screens larger than 768px */
 @media screen and (min-width: 768px) {
@@ -74,4 +74,5 @@ input[type=text]:active {
       width: 100%;
       margin: 0;
       padding: 14px;
-}
+    }
+  }
